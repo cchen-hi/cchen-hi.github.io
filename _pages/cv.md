@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D degree in electronic and computer engineering <br> The Hong Kong University of Science and Technology, Hong Kong, China, Jun 2022
+* Ph.D in electronic and computer engineering, Sep 2016 - Jun 2022 <br> **The Hong Kong University of Science and Technology**, Hong Kong, China 
   * Supervisor: Prof. Li Qiu
   * Thesis: [*Phase of Nonlinear Systems*](https://lbezone.ust.hk/bib/991013039828103412)
     
-* B.E. degree (Hons) in automation <br> Zhejiang University of Technology, Hangzhou, China, Jun 2016
+* B.E. (Hons) in automation, Sep 2012 - Jun 2016 <br>  Zhejiang University of Technology, Hangzhou, China
   * Supervisor: Prof. Li Yu 
 
 Work experience
