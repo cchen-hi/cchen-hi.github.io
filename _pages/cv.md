@@ -11,48 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.E. degree (Hons) in automation at Jianxing Honors College, Zhejiang University of Technology, 2016
-* Ph.D degree in electronic and computer engineering, The Hong Kong University of Science and Technology (HKUST), Hong Kong, 2022  
+* Ph.D degree in electronic and computer engineering <br> The Hong Kong University of Science and Technology, Hong Kong, China, Jun 2022
+  * Supervisor: Prof. Li Qiu
+  * Thesis: [*Phase of Nonlinear Systems*](https://lbezone.ust.hk/bib/991013039828103412)
+    
+* B.E. degree (Hons) in automation <br> Zhejiang University of Technology, Hangzhou, China, Jun 2016
+  * Supervisor: Prof. Li Yu 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-doctoral Fellow, Jul 2023 - Present
+  * Katholieke Universiteit Leuven, Belgium
+  * Supervisor: Prof. Rodolphe Sepulchre
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Post-doctoral Fellow, Jul 2022 - July 2023
+  * The Hong Kong University of Science and Technology
+  * Supervisor: Prof. Li Qiu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Part-time Research Assistant, Sep 2020 - Jan 2022
+  * The Hong Kong University of Science and Technology   
+
   
-Talks
+Teaching experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for HKUST ELEC 3200: System Modeling, Analysis and Control, Spring/Fall 2017, Spring 2018
+* Teaching Assistant for HKUST ELEC 4010G: Control System Design, Spring 2017
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
