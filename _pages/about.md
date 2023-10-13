@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 About Me
-======
+------
 
 I am  a postdoctoral fellow in the STADIUS Center of Department of Electrical Engineering (ESAT), KU Leuven, Belgium. My research interests include nonlinear systems, robust control and neuroscience.
 
