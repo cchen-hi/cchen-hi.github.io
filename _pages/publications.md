@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 Preprints
 ======
-1. S. Z. Khong and **C. Chen***, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *arXiv*, 2023. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
+1. S. Z. Khong and **C. Chen**, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *arXiv*, 2023. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
 2. **C. Chen**, W. Chen, D. Zhao, S. Z. Khong and L. Qiu, ''The singular angle of nonlinear systems,'' *arXiv*, 2021. [arXiv:2109.01629](https://arxiv.org/abs/2109.01629)
 1. **C. Chen**, D. Zhao, W. Chen, S. Z. Khong and L. Qiu, ''Phase of nonlinear systems,'' *arXiv*, 2020. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
 
@@ -25,4 +25,5 @@ Conference Papers
 4. **C. Chen**, D. Zhao and L. Qiu, ''Control of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 57th Annual Conference of SICE*, Nara, Japan, 2018, pp. 1301 – 1306. [online](https://doi.org/10.23919/SICE.2018.8492573)
 
 Book Chapters
+======
 1. D. Zhao, **C. Chen**, S. Z. Khong and L. Qiu, ''Robust control against uncertainty quartet: A polynomial approach,'' in *Uncertainty in Complex Networked Systems*, T. Basar, Ed. Cham, Switzerland: Birkhauser, 2018, pp. 149 – 178. [online](https://doi.org/10.1007/978-3-030-04630-9_4)
