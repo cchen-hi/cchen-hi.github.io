@@ -29,7 +29,13 @@ Work experience
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
 
 * Part-time Research Assistant, &emsp; Sep 2020 - Jan 2022
-  * The Hong Kong University of Science and Technology   
+  * The Hong Kong University of Science and Technology
+
+On-going Projects
+======
+* A Phase Theory for Nonlinear Systems, &emsp;  Jul 2022 - Jun 2025
+  * PI: Li Qiu, Co-I: Chao Chen 
+  * Research Grants Council (RGC) of Hong Kong SAR under the General Research Fund (GRF) No. 16203922
   
 Teaching experience
 ======
