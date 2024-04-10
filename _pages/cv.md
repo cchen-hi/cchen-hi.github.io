@@ -12,21 +12,21 @@ redirect_from:
 Education
 ======
 * Ph.D. in electronic and computer engineering, &emsp; Sep 2016 - Jun 2022 <br> **The Hong Kong University of Science and Technology**, Hong Kong, China 
-  * Supervisor: Prof. Li Qiu
+  * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
   * Ph.D. Thesis: [*Phase of Nonlinear Systems*](https://lbezone.ust.hk/bib/991013039828103412)
     
 * B.E. (Hons) in automation, &emsp; Sep 2012 - Jun 2016 <br>  **Zhejiang University of Technology**, Hangzhou, China
-  * Supervisor: Prof. Li Yu 
+  * Supervisor: Prof. [Li Yu](https://homepage.zjut.edu.cn//yuli)
 
 Work experience
 ======
 * Post-doctoral Fellow, &emsp; Jul 2023 - Present
   * **Katholieke Universiteit Leuven**, Leuven, Belgium
-  * Supervisor: Prof. Rodolphe Sepulchre
+  * Supervisor: Prof. [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/)
 
 * Post-doctoral Fellow, &emsp; Jul 2022 - Jul 2023
   * **The Hong Kong University of Science and Technology**
-  * Supervisor: Prof. Li Qiu
+  * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
 
 * Part-time Research Assistant, &emsp; Sep 2020 - Jan 2022
   * The Hong Kong University of Science and Technology   
