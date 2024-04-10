@@ -35,7 +35,7 @@ On-going Projects
 ======
 * A Phase Theory for Nonlinear Systems, &emsp;  Jul 2022 - Jun 2025
   * PI: Li Qiu, Co-I: Chao Chen 
-  * Research Grants Council (RGC) of Hong Kong SAR under the General Research Fund (GRF) No. 16203922
+  * Research Grants Council (RGC) of Hong Kong under the General Research Fund (GRF) No. 16203922
   
 Teaching experience
 ======
