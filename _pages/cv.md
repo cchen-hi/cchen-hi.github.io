@@ -31,7 +31,7 @@ Work experience
 * Part-time Research Assistant, &emsp; Sep 2020 - Jan 2022
   * The Hong Kong University of Science and Technology
 
-On-going Projects
+On-going projects
 ======
 * A Phase Theory for Nonlinear Systems, &emsp;  Jul 2022 - Jun 2025
   * PI: Li Qiu, Co-I: Chao Chen 
