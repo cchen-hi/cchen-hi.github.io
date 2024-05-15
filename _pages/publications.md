@@ -9,13 +9,13 @@ Preprints
 ======
 1. **C. Chen**, W. Chen, D. Zhao, J. Chen and L. Qiu, ''A cyclic small phase theorem,'' *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
 2. J. Chen, W. Chen, **C. Chen** and L. Qiu, ''Phase preservation of N-port networks under general connections,'' *arXiv*, 2023. [arXiv:2311.16523](https://arxiv.org/abs/2311.16523)
-3. S. Z. Khong and **C. Chen**, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *arXiv*, 2022. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
+3. S. Z. Khong, **C. Chen*** and A. Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *arXiv*, 2022. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
 4. **C. Chen**, W. Chen, D. Zhao, S. Z. Khong and L. Qiu, ''The singular angle of nonlinear systems,'' *arXiv*, 2021. [arXiv:2109.01629](https://arxiv.org/abs/2109.01629)
 5. **C. Chen**, D. Zhao, W. Chen, S. Z. Khong and L. Qiu, ''Phase of nonlinear systems,'' *arXiv*, 2020. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
 
 Journal Papers
 ======
-1. D. Zhao,  **C. Chen*** and J. Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, 2023. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
+1. D. Zhao,  **C. Chen*** and J. Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2023. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
 2. D. Zhao, **C. Chen*** and S. Z. Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
 
 
