@@ -15,7 +15,7 @@ Preprints
 
 Journal Papers
 ======
-1. D. Zhao,  **C. Chen*** and J. Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2023. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
+1. D. Zhao,  **C. Chen*** and J. Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2024. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
 2. D. Zhao, **C. Chen*** and S. Z. Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
 
 
