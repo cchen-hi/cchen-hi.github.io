@@ -21,10 +21,12 @@ Journal Papers
 
 Conference Papers
 ======
-1. **C. Chen**, W. Chen, D. Zhao, J. Chen and L. Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
-2. **C. Chen**, D. Zhao, W. Chen and L. Qiu, ''A nonlinear small phase theorem,'' in *Late Breaking Results of 21st IFAC World Congress*, Berlin, Germany, 2020. [online](https://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/4488.pdf)
-3. **C. Chen**, D. Zhao and L. Qiu, ''Nonovershooting regulation of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 16th International Conference on Control, Automation, Robotics and Vision*, Shenzhen, China, 2020, pp. 784 – 788. [online](https://doi.org/10.1109/ICARCV50220.2020.9305461)
-4. **C. Chen**, D. Zhao and L. Qiu, ''Control of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 57th Annual Conference of SICE*, Nara, Japan, 2018, pp. 1301 – 1306. [online](https://doi.org/10.23919/SICE.2018.8492573)
+1. **C. Chen** and R. Sepulchre, ''The Hilbert distance between LTI passive systems,'' accepted by *63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024.
+2. **C. Chen**, J. Chen, D. Zhao and L. Qiu, ''A cyclic small phase theorem for nonlinear systems,'' accepted by *63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024.
+3. **C. Chen**, W. Chen, D. Zhao, J. Chen and L. Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
+4. **C. Chen**, D. Zhao, W. Chen and L. Qiu, ''A nonlinear small phase theorem,'' in *Late Breaking Results of 21st IFAC World Congress*, Berlin, Germany, 2020. [online](https://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/4488.pdf)
+5. **C. Chen**, D. Zhao and L. Qiu, ''Nonovershooting regulation of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 16th International Conference on Control, Automation, Robotics and Vision*, Shenzhen, China, 2020, pp. 784 – 788. [online](https://doi.org/10.1109/ICARCV50220.2020.9305461)
+6. **C. Chen**, D. Zhao and L. Qiu, ''Control of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 57th Annual Conference of SICE*, Nara, Japan, 2018, pp. 1301 – 1306. [online](https://doi.org/10.23919/SICE.2018.8492573)
 
 Book Chapters
 ======
