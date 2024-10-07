@@ -8,15 +8,15 @@ author_profile: true
 Preprints
 ======
 1. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
-2. Jianqi Chen, Wei Chen, **Chao Chen** and Li Qiu, ''Phase preservation of N-port networks under general connections,'' *arXiv*, 2023. [arXiv:2311.16523](https://arxiv.org/abs/2311.16523)
-3. **Chao Chen**, Wei Chen, Di Zhao, Sei Zhen Khong and Li Qiu, ''The singular angle of nonlinear systems,'' *arXiv*, 2021. [arXiv:2109.01629](https://arxiv.org/abs/2109.01629)
-4. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
+2. **Chao Chen**, Wei Chen, Di Zhao, Sei Zhen Khong and Li Qiu, ''The singular angle of nonlinear systems,'' *arXiv*, 2021. [arXiv:2109.01629](https://arxiv.org/abs/2109.01629)
+3. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
 
 Journal Papers
 ======
-1. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' to appear in *Automatica*, 2024. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
-2. Di Zhao,  **Chao Chen*** and Jianqi Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2024. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
-3. Di Zhao, **Chao Chen*** and Sei Zhen Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
+1. Jianqi Chen, Wei Chen, **Chao Chen** and Li Qiu, ''Phase preservation of N-port networks under general connections,'' to appear in *IEEE Transactions on Automatic Control*, 2024. [arXiv:2311.16523](https://arxiv.org/abs/2311.16523)
+2. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' to appear in *Automatica*, 2024. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
+3. Di Zhao,  **Chao Chen*** and Jianqi Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2024. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
+4. Di Zhao, **Chao Chen*** and Sei Zhen Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
 
 
 Conference Papers
