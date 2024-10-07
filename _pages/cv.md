@@ -24,7 +24,7 @@ Work experience
   * **Katholieke Universiteit Leuven**, Leuven, Belgium
   * Supervisor: Prof. [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/)
 
-* Post-doctoral Fellow, &emsp; Jul 2022 - Jul 2023
+* Post-doctoral Fellow, &emsp; Feb 2022 - Jul 2023
   * **The Hong Kong University of Science and Technology**
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
 
