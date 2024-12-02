@@ -13,10 +13,10 @@ Preprints
 
 Journal Papers
 ======
-1. Jianqi Chen, Wei Chen, **Chao Chen** and Li Qiu, ''Phase preservation of N-port networks under general connections,'' to appear in *IEEE Transactions on Automatic Control*, 2024. [arXiv:2311.16523](https://arxiv.org/abs/2311.16523)
-2. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' to appear in *Automatica*, 2024. [arXiv:2209.08322](https://arxiv.org/abs/2209.08322)
-3. Di Zhao,  **Chao Chen*** and Jianqi Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2024. [doi:10.1109/tac.2023.3324262](https://doi.org/10.1109/tac.2023.3324262)
-4. Di Zhao, **Chao Chen*** and Sei Zhen Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
+1. Jianqi Chen, Wei Chen, **Chao Chen** and Li Qiu, ''Phase preservation of N-port networks under general connections,'' *IEEE Transactions on Automatic Control*, 2024. [doi:10.1109/TAC.2024.3484229](https://doi.org/10.1109/TAC.2024.3484229)
+2. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *Automatica*, vol. 172, Art. 112000, 2025. [doi:10.1016/j.automatica.2024.112000](https://doi.org/10.1016/j.automatica.2024.112000)  
+3. Di Zhao,  **Chao Chen*** and Jianqi Chen, ''Small gain and small angle conditions for feedback stability analysis of linear stochastic systems,'' *IEEE Transactions on Automatic Control*, vol. 69, no. 5, pp. 3349 – 3356, 2024. [doi:10.1109/TAC.2023.3324262](https://doi.org/10.1109/TAC.2023.3324262)
+4. Di Zhao, **Chao Chen*** and Sei Zhen Khong, ''A frequency-domain approach to nonlinear negative imaginary systems analysis,'' *Automatica*, vol. 146, Art. 110604, 2022. [doi:10.1016/j.automatica.2022.110604](https://doi.org/10.1016/j.automatica.2022.110604)
 
 
 Conference Papers
