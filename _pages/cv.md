@@ -24,12 +24,12 @@ Work experience
   * Department of Electrical and Electronic Engineering (EEE)
   * **The University of Manchester**, Manchester M13 9PL, United Kingdom
   
-* Post-doctoral Fellow &emsp; Jul 2023 - Feb 2025
+* Postdoctoral Fellow &emsp; Jul 2023 - Feb 2025
   * Department of Electrical Engineering (ESAT-STADIUS)
   * **Katholieke Universiteit Leuven (KU Leuven)**, Leuven 3000, Belgium
   * Supervisor: Prof. [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/)
 
-* Post-doctoral Fellow &emsp; Feb 2022 - Jul 2023
+* Postdoctoral Fellow &emsp; Feb 2022 - Jul 2023
   * Department of Electronic and Computer Engineering (ECE)
   * **The Hong Kong University of Science and Technology**, Hong Kong, China
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
