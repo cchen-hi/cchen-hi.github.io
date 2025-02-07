@@ -11,29 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in electronic and computer engineering, &emsp; Sep 2016 - Jun 2022 <br> **The Hong Kong University of Science and Technology**, Hong Kong, China 
+* Ph.D. in electronic and computer engineering &emsp; Sep 2016 - Jun 2022 <br> **The Hong Kong University of Science and Technology**, Hong Kong, China 
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
   * Ph.D. Thesis: [*Phase of Nonlinear Systems*](https://lbezone.ust.hk/bib/991013039828103412)
     
-* B.E. (Hons) in automation, &emsp; Sep 2012 - Jun 2016 <br>  **Zhejiang University of Technology**, Hangzhou, China
+* B.E. (Hons) in automation &emsp; Sep 2012 - Jun 2016 <br>  **Zhejiang University of Technology**, Hangzhou, China
   * Supervisor: Prof. [Li Yu](https://homepage.zjut.edu.cn//yuli)
 
 Work experience
 ======
-* Post-doctoral Fellow, &emsp; Jul 2023 - Present
-  * **Katholieke Universiteit Leuven**, Leuven, Belgium
+* Lecturer in Control Systems &emsp; Feb 2025 - Present
+  * Department of Electrical and Electronic Engineering (EEE)
+  * **The University of Manchester**, Manchester M13 9PL, United Kingdom
+  
+* Post-doctoral Fellow &emsp; Jul 2023 - Feb 2025
+  * Department of Electrical Engineering (ESAT-STADIUS)
+  * **Katholieke Universiteit Leuven (KU Leuven)**, Leuven 3000, Belgium
   * Supervisor: Prof. [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/)
 
-* Post-doctoral Fellow, &emsp; Feb 2022 - Jul 2023
-  * **The Hong Kong University of Science and Technology**
+* Post-doctoral Fellow &emsp; Feb 2022 - Jul 2023
+  * Department of Electronic and Computer Engineering (ECE)
+  * **The Hong Kong University of Science and Technology**, Hong Kong, China
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
-
-* Part-time Research Assistant, &emsp; Sep 2020 - Jan 2022
-  * The Hong Kong University of Science and Technology
 
 On-going projects
 ======
-* A Phase Theory for Nonlinear Systems, &emsp;  Jul 2022 - Jun 2025
+* A Phase Theory for Nonlinear Systems &emsp;  Jul 2022 - Jun 2025
   * PI: Li Qiu, Co-I: Chao Chen 
   * Research Grants Council (RGC) of Hong Kong under the General Research Fund (GRF) No. 16203922
   
