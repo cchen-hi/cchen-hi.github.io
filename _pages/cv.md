@@ -42,7 +42,8 @@ On-going projects
   
 Teaching experience
 ======
-* Teaching Assistant for HKUST ELEC 3200: System Modeling, Analysis and Control, &emsp; Spring/Fall 2017, Spring 2018
-* Teaching Assistant for HKUST ELEC 4010G: Control System Design,&emsp;  Spring 2017
+* Lecturer, Optimal & Robust Control (UoM EEEN40262/EEEN60262), &emsp; Spring 2025
+* Teaching Assistant, System Modeling, Analysis and Control (HKUST ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
+* Teaching Assistant, Control System Design (HKUST ELEC4010G), &emsp;  Spring 2017
 
   
