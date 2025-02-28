@@ -23,8 +23,8 @@ Journal Papers
 
 Conference Papers
 ======
-1. **Chao Chen** and Rodolphe Sepulchre, ''The Hilbert distance between LTI passive systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 8138 – 8143.
-2. **Chao Chen**, Jianqi Chen, Di Zhao and Li Qiu, ''A cyclic small phase theorem for nonlinear systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 4405 – 4410.
+1. **Chao Chen** and Rodolphe Sepulchre, ''The Hilbert distance between LTI passive systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 8138 – 8143. [online](https://doi.org/10.1109/CDC56724.2024.10886704)
+2. **Chao Chen**, Jianqi Chen, Di Zhao and Li Qiu, ''A cyclic small phase theorem for nonlinear systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 4405 – 4410. [online](https://doi.org/10.1109/CDC56724.2024.10886542)
 3. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
 4. **Chao Chen**, Di Zhao, Wei Chen and Li Qiu, ''A nonlinear small phase theorem,'' in *Late Breaking Results of 21st IFAC World Congress*, Berlin, Germany, 2020. [online](https://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/4488.pdf)
 5. **Chao Chen**, Di Zhao and Li Qiu, ''Nonovershooting regulation of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 16th International Conference on Control, Automation, Robotics and Vision*, Shenzhen, China, 2020, pp. 784 – 788. [online](https://doi.org/10.1109/ICARCV50220.2020.9305461)
