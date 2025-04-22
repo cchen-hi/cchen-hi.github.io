@@ -7,9 +7,10 @@ author_profile: true
 
 Submitted Papers and Preprints
 ======
-1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' submitted to *IEEE Transactions on Automatic Control*, 2024.
-2. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
-3. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
+1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv:2504.14407](https://arxiv.org/abs/2504.14407)
+2.  **Chao Chen**, Thomas Chaffey and Rodolphe Sepulchre, ''Graphical dominance analysis for linear Systems: A frequency-domain approach,'' submitted to *IEEE Conference on Decision and Control*, 2025. [arXiv:2504.14394](https://arxiv.org/abs/2504.14394) 
+3. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
+4. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
 
 Journal Papers
 ======
