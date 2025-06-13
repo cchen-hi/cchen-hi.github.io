@@ -9,11 +9,11 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
- - title: "Group"
-    url: /research/
+ #- title: "Group"
+ #   url: /research/
   
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
         
   #- title: "Blog Posts"
   #  url: /year-archive/
