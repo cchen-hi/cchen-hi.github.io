@@ -23,5 +23,7 @@ The origins of the questions may be traced back to Prof. George Zames' pioneerin
 
 News
 ------
+Jun 2025: I am currently accepting UK and international PhD students with a strong interest in theoretical and novel research. Please refer to [FindAPhD](https://www.findaphd.com/phds/project/nonlinear-and-robust-control-a-phase-approach/?p185884) and [EEE](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/04620/phd-electrical-and-electronic-engineering), and email me if you are interested in joining my group. For Chinese applicants, you may wish to consider applying for the [UoM-CSC Joint Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/china-scholarship-council-joint-scholarship/). 
+
 Sep 2024: I will be joining the Department of Electrical and Electronic Engineering, The University of Manchester, United Kingdom as a Lecturer (Assistant Professor) in Spring 2025.
 
