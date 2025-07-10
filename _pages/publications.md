@@ -15,7 +15,7 @@ Submitted Papers and Preprints
 
 Journal Papers
 ======
-1. **Chao Chen**, Di Zhao and Sei Zhen Khong, ''The singular angle of nonlinear systems,'' *Automatica*, 2025. (Regular Paper)
+1. **Chao Chen**, Di Zhao and Sei Zhen Khong, ''The singular angle of nonlinear systems,'' *Automatica*, 2025. [arXiv:2109.01629](https://arxiv.org/abs/2109.01629) (Regular Paper)
 2. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *Automatica*, vol. 172, Art. 112000, 2025. [doi:10.1016/j.automatica.2024.112000](https://doi.org/10.1016/j.automatica.2024.112000) (Regular Paper)
 3. Jianqi Chen, Qi Mao, Di Zhao and **Chao Chen**, ''Robust stability and stabilizability conditions of time-delay systems against stochastic uncertainty,'' *IEEE Transactions on Automatic Control*, 2024. [doi:10.1109/TAC.2024.3524239](https://doi.org/10.1109/TAC.2024.3524239)
 4. Jianqi Chen, Wei Chen, **Chao Chen** and Li Qiu, ''Phase preservation of N-port networks under general connections,'' *IEEE Transactions on Automatic Control*, vol. 70, no. 4, pp. 2346 – 2361, 2025. [doi:10.1109/TAC.2024.3484229](https://doi.org/10.1109/TAC.2024.3484229)（Full Paper）
