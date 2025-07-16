@@ -8,10 +8,8 @@ author_profile: true
 Submitted Papers and Preprints
 ======
 1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv:2504.14407](https://arxiv.org/abs/2504.14407)
-2.  **Chao Chen**, Thomas Chaffey and Rodolphe Sepulchre, ''Graphical dominance analysis for linear Systems: A frequency-domain approach,'' submitted to *IEEE Conference on Decision and Control*, 2025. [arXiv:2504.14394](https://arxiv.org/abs/2504.14394)
-3.  Sebastiaan van den Eijnden, **Chao Chen**, Koen Scheres, Thomas Chaffey and Alexander Lanzon, ''On phase in scaled graphs,'' submitted to *IEEE Conference on Decision and Control*, 2025. [arXiv:2504.21448](https://arxiv.org/abs/2504.21448)
-4. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
-5. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
+2. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2023. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956)
+3. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, also in *arXiv*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
 
 Journal Papers
 ======
@@ -25,12 +23,14 @@ Journal Papers
 
 Conference Papers
 ======
-1. **Chao Chen** and Rodolphe Sepulchre, ''The Hilbert distance between LTI passive systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 8138 – 8143. [online](https://doi.org/10.1109/CDC56724.2024.10886704)
-2. **Chao Chen**, Jianqi Chen, Di Zhao and Li Qiu, ''A cyclic small phase theorem for nonlinear systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 4405 – 4410. [online](https://doi.org/10.1109/CDC56724.2024.10886542)
-3. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
-4. **Chao Chen**, Di Zhao, Wei Chen and Li Qiu, ''A nonlinear small phase theorem,'' in *Late Breaking Results of 21st IFAC World Congress*, Berlin, Germany, 2020. [online](https://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/4488.pdf)
-5. **Chao Chen**, Di Zhao and Li Qiu, ''Nonovershooting regulation of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 16th International Conference on Control, Automation, Robotics and Vision*, Shenzhen, China, 2020, pp. 784 – 788. [online](https://doi.org/10.1109/ICARCV50220.2020.9305461)
-6. **Chao Chen**, Di Zhao and Li Qiu, ''Control of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 57th Annual Conference of SICE*, Nara, Japan, 2018, pp. 1301 – 1306. [online](https://doi.org/10.23919/SICE.2018.8492573)
+1.  **Chao Chen**, Thomas Chaffey and Rodolphe Sepulchre, ''Graphical dominance analysis for linear Systems: A frequency-domain approach,'' *64th IEEE Conference on Decision and Control*, to appear, Rio de Janeiro, Brazil, 2025. [arXiv:2504.14394](https://arxiv.org/abs/2504.14394)
+2.  Sebastiaan van den Eijnden, **Chao Chen**, Koen Scheres, Thomas Chaffey and Alexander Lanzon, ''On phase in scaled graphs,'' *64th IEEE Conference on Decision and Control*, to appear,  Rio de Janeiro, Brazil, 2025. [arXiv:2504.21448](https://arxiv.org/abs/2504.21448)
+3. **Chao Chen** and Rodolphe Sepulchre, ''The Hilbert distance between LTI passive systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 8138 – 8143. [online](https://doi.org/10.1109/CDC56724.2024.10886704)
+4. **Chao Chen**, Jianqi Chen, Di Zhao and Li Qiu, ''A cyclic small phase theorem for nonlinear systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 4405 – 4410. [online](https://doi.org/10.1109/CDC56724.2024.10886542)
+5. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
+6. **Chao Chen**, Di Zhao, Wei Chen and Li Qiu, ''A nonlinear small phase theorem,'' in *Late Breaking Results of 21st IFAC World Congress*, Berlin, Germany, 2020. [online](https://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/4488.pdf)
+7. **Chao Chen**, Di Zhao and Li Qiu, ''Nonovershooting regulation of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 16th International Conference on Control, Automation, Robotics and Vision*, Shenzhen, China, 2020, pp. 784 – 788. [online](https://doi.org/10.1109/ICARCV50220.2020.9305461)
+8. **Chao Chen**, Di Zhao and Li Qiu, ''Control of an under-sensed and under-actuated linear inverted pendulum,'' in *Proc. 57th Annual Conference of SICE*, Nara, Japan, 2018, pp. 1301 – 1306. [online](https://doi.org/10.23919/SICE.2018.8492573)
 
 Book Chapters
 ======
