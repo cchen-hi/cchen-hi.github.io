@@ -12,7 +12,7 @@ Submitted Papers and Preprints
 
 Journal Papers
 ======
-1. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' *IEEE Transactions on Automatic Control*, accepted, 2025. [arXiv:2312.00956](https://arxiv.org/abs/2312.00956) (Full Paper)
+1. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' *IEEE Transactions on Automatic Control*, accepted, 2025. [doi:10.1109/TAC.2025.3617287](https://doi.org/10.1109/TAC.2025.3617287) (Full Paper)
 2. **Chao Chen**, Di Zhao and Sei Zhen Khong, ''The singular angle of nonlinear systems,'' *Automatica*, vol. 181, art. 112515, 2025. [doi:10.1016/j.automatica.2025.112515](https://doi.org/10.1016/j.automatica.2025.112515) (Regular Paper)
 3. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *Automatica*, vol. 172, art. 112000, 2025. [doi:10.1016/j.automatica.2024.112000](https://doi.org/10.1016/j.automatica.2024.112000) (Regular Paper)
 4. Jianqi Chen, Qi Mao, Di Zhao and **Chao Chen**, ''Robust stability and stabilizability conditions of time-delay systems against stochastic uncertainty,'' *IEEE Transactions on Automatic Control*, vol. 70, no. 6, pp. 4037 - 4044, 2025. [doi:10.1109/TAC.2024.3524239](https://doi.org/10.1109/TAC.2024.3524239)
