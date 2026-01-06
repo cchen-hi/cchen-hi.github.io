@@ -9,7 +9,7 @@ Submitted Papers and Preprints
 ======
 1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' submitted to *IEEE Transactions on Automatic Control*, 2024. [arXiv:2504.14407](https://arxiv.org/abs/2504.14407)
 2. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
-3. Di Zhao, **Chao Chen**$^*$, Kin Cheong Sou and Sei Zhen Khong, ''Description and reduction of network asymmetry: A phase-rank approach,'' submitted to *IEEE Transactions on Automatic Control*, 2025.
+3. Di Zhao, **Chao Chen***, Kin Cheong Sou and Sei Zhen Khong, ''Description and reduction of network asymmetry: A phase-rank approach,'' submitted to *IEEE Transactions on Automatic Control*, 2025.
 4. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.  
 
 Journal Papers
