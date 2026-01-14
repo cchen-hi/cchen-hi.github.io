@@ -25,8 +25,8 @@ Journal Papers
 
 Conference Papers
 ======
-1.  **Chao Chen**, Thomas Chaffey and Rodolphe Sepulchre, ''Graphical dominance analysis for linear Systems: A frequency-domain approach,'' *64th IEEE Conference on Decision and Control*, to appear, Rio de Janeiro, Brazil, 2025. [arXiv:2504.14394](https://arxiv.org/abs/2504.14394)
-2.  Sebastiaan van den Eijnden, **Chao Chen**, Koen Scheres, Thomas Chaffey and Alexander Lanzon, ''On phase in scaled graphs,'' *64th IEEE Conference on Decision and Control*, to appear,  Rio de Janeiro, Brazil, 2025. [arXiv:2504.21448](https://arxiv.org/abs/2504.21448)
+1.  **Chao Chen**, Thomas Chaffey and Rodolphe Sepulchre, ''Graphical dominance analysis for linear Systems: A frequency-domain approach,'' in *Proc. 64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil, 2025, pp. 2720 – 2725. [online](https://doi.org/10.1109/CDC57313.2025.11312980)
+2.  Sebastiaan van den Eijnden, **Chao Chen**, Koen Scheres, Thomas Chaffey and Alexander Lanzon, ''On phase in scaled graphs,'' in *Proc. 64th IEEE Conference on Decision and Control*,  Rio de Janeiro, Brazil, 2025, pp. 3595 - 3600. [online](https://doi.org/10.1109/CDC57313.2025.11312812)
 3. **Chao Chen** and Rodolphe Sepulchre, ''The Hilbert distance between LTI passive systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 8138 – 8143. [online](https://doi.org/10.1109/CDC56724.2024.10886704)
 4. **Chao Chen**, Jianqi Chen, Di Zhao and Li Qiu, ''A cyclic small phase theorem for nonlinear systems,'' in *Proc. 63rd IEEE Conference on Decision and Control*, Milan, Italy, 2024, pp. 4405 – 4410. [online](https://doi.org/10.1109/CDC56724.2024.10886542)
 5. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem for MIMO LTI systems,'' in *Proc. 22nd IFAC World Congress*, Yokohama, Japan, 2023, pp. 1883 – 1888. [online](https://doi.org/10.1016/j.ifacol.2023.10.1906)
