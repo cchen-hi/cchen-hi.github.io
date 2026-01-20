@@ -43,11 +43,13 @@ On-going projects
 PhD Supervision
 ======
 * Co-Supervisor
+  * Han Yao, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; To start in Apr 2026 
   * Tianzhe Zhang, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; Apr 2025 - Present
   * Qikai Sun, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM &emsp; Jan 2025 - Present
   
 Teaching experience
 ======
+* Lecturer and Unit Lead, Applied Optimal Control & Estimation (UoM EEEN40122/60122), &emsp; Spring 2026
 * Lecturer, Optimal & Robust Control (UoM EEEN40262/EEEN60262), &emsp; Spring 2025
 * Teaching Assistant, System Modeling, Analysis and Control (HKUST ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
 * Teaching Assistant, Control System Design (HKUST ELEC4010G), &emsp;  Spring 2017
