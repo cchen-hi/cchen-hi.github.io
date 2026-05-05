@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in electronic and computer engineering &emsp; Sep 2016 - Jun 2022 <br> **The Hong Kong University of Science and Technology**, Hong Kong, China 
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
-  * Ph.D. Thesis: [*Phase of Nonlinear Systems*](https://lbezone.ust.hk/bib/991013039828103412)
+  * Ph.D. Thesis: [Phase of Nonlinear Systems](https://lbezone.ust.hk/bib/991013039828103412)
     
 * B.E. (Hons) in automation &emsp; Sep 2012 - Jun 2016 <br>  **Zhejiang University of Technology**, Hangzhou, China
   * Supervisor: Prof. [Li Yu](https://homepage.zjut.edu.cn//yuli)
@@ -43,13 +43,13 @@ On-going projects
 PhD Supervision
 ======
 * Co-Supervisor
-  * Han Yao, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; To start in Apr 2026 
+  * Han Yao, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; Apr 2026 - Present
   * Tianzhe Zhang, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; Apr 2025 - Present
   * Qikai Sun, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM &emsp; Jan 2025 - Present
   
 Teaching experience
 ======
-* Lecturer and Unit Lead, Applied Optimal Control & Estimation (UoM EEEN40122/60122), &emsp; Spring 2026
+* Lecturer and Unit Lead, Applied Optimal Control & Estimation (UoM EEEN40122/EEEN60122), &emsp; Spring 2026
 * Lecturer, Optimal & Robust Control (UoM EEEN40262/EEEN60262), &emsp; Spring 2025
 * Teaching Assistant, System Modeling, Analysis and Control (HKUST ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
 * Teaching Assistant, Control System Design (HKUST ELEC4010G), &emsp;  Spring 2017
