@@ -13,7 +13,7 @@ Submitted Papers and Preprints
 
 Journal Papers
 ======
-1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' *IEEE Transactions on Automatic Control*, to appear, 2026. [doi:10.1109/TAC.2026.3693988](https://doi.org/10.1109/TAC.2026.3693988)
+1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' *IEEE Transactions on Automatic Control*, 2026. [doi:10.1109/TAC.2026.3693988](https://doi.org/10.1109/TAC.2026.3693988)
 2. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' *IEEE Transactions on Automatic Control*, vo. 71, no. 3, pp. 1676 - 1691, 2026. [doi:10.1109/TAC.2025.3617287](https://doi.org/10.1109/TAC.2025.3617287) (Full Paper)
 3. **Chao Chen**, Di Zhao and Sei Zhen Khong, ''The singular angle of nonlinear systems,'' *Automatica*, vol. 181, art. 112515, 2025. [doi:10.1016/j.automatica.2025.112515](https://doi.org/10.1016/j.automatica.2025.112515) (Regular Paper)
 4. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *Automatica*, vol. 172, art. 112000, 2025. [doi:10.1016/j.automatica.2024.112000](https://doi.org/10.1016/j.automatica.2024.112000) (Regular Paper)
