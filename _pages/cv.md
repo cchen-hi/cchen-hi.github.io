@@ -23,6 +23,7 @@ Work experience
 * Lecturer in Control Systems &emsp; Feb 2025 - Present
   * Department of Electrical and Electronic Engineering (EEE)
   * **The University of Manchester**, Manchester M13 9PL, United Kingdom
+  * [University Research Profile](https://research.manchester.ac.uk/en/persons/chao-chen/)
   
 * Postdoctoral Fellow &emsp; Jul 2023 - Feb 2025
   * Department of Electrical Engineering (ESAT-STADIUS)
@@ -49,9 +50,10 @@ PhD Supervision
   
 Teaching experience
 ======
-* Lecturer and Unit Lead, Applied Optimal Control & Estimation (UoM EEEN40122/EEEN60122), &emsp; Spring 2026
-* Lecturer, Optimal & Robust Control (UoM EEEN40262/EEEN60262), &emsp; Spring 2025
-* Teaching Assistant, System Modeling, Analysis and Control (HKUST ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
-* Teaching Assistant, Control System Design (HKUST ELEC4010G), &emsp;  Spring 2017
+* Lecturer, *Control Systems II* (UoM UG EEEN30231), &emsp; Since Fall 2026
+* Lecturer and Unit Lead, *Applied Optimal Control & Estimation* (UoM MSc EEEN40122/EEEN60122), &emsp; Since Spring 2026
+* Lecturer, *Optimal & Robust Control* (UoM MSc EEEN40262/EEEN60262), &emsp; Spring 2025
+* Teaching Assistant, *System Modeling, Analysis and Control* (HKUST UG ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
+* Teaching Assistant, *Control System Design* (HKUST UG ELEC4010G), &emsp;  Spring 2017
 
   
