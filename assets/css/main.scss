@@ -39,3 +39,12 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page__content {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
+  line-height: 1.6 !important;
+}
+
+.page__content p {
+  max-width: 75ch !important;
+}
