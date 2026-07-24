@@ -5,6 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
+
+<style>
+.pub {
+  display: flex;
+  gap: 0.6em;
+  margin-bottom: 1.2em;
+}
+
+.pub-number {
+  flex: 0 0 3em;
+  font-weight: bold;
+}
+
+.pub-details {
+  flex: 1;
+}
+
+.my-name {
+  color: purple;
+  font-weight: 600;
+}
+</style>
+
 Submitted Papers and Preprints
 ======
 1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
@@ -13,7 +42,18 @@ Submitted Papers and Preprints
 
 Journal Papers
 ======
-1. **Chao Chen**, Sei Zhen Khong and Rodolphe Sepulchre, ''Soft and hard scaled relative graphs for nonlinear feedback stability,'' *IEEE Transactions on Automatic Control*, 2026. [doi:10.1109/TAC.2026.3693988](https://doi.org/10.1109/TAC.2026.3693988) (Technical Note)
+
+<div class="pub">
+  <div class="pub-number">[J8]</div>
+  <div class="pub-details">
+    <strong>Soft and hard scaled relative graphs for nonlinear feedback stability</strong><br>
+   <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
+    <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note)
+     https://doi.org/10.1109/TAC.2026.3693988 [DOI]</a>
+  </div>
+</div>
+
+
 2. **Chao Chen**, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu, ''A cyclic small phase theorem,'' *IEEE Transactions on Automatic Control*, vo. 71, no. 3, pp. 1676 - 1691, 2026. [doi:10.1109/TAC.2025.3617287](https://doi.org/10.1109/TAC.2025.3617287) (Full Paper)
 3. **Chao Chen**, Di Zhao and Sei Zhen Khong, ''The singular angle of nonlinear systems,'' *Automatica*, vol. 181, art. 112515, 2025. [doi:10.1016/j.automatica.2025.112515](https://doi.org/10.1016/j.automatica.2025.112515) (Regular Paper)
 4. Sei Zhen Khong, **Chao Chen*** and Alexander Lanzon, ''Feedback stability analysis via dissipativity with dynamic supply rates,'' *Automatica*, vol. 172, art. 112000, 2025. [doi:10.1016/j.automatica.2024.112000](https://doi.org/10.1016/j.automatica.2024.112000) (Regular Paper)
