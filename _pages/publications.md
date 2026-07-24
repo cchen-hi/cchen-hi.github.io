@@ -42,7 +42,7 @@ Journal Papers
     <strong>Soft and hard scaled relative graphs for nonlinear feedback stability</strong><br>
    <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
     <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note)
-    https://doi.org/10.1109/TAC.2026.3693988[DOI]</a>
+    <a href/doi.org/10.1109/TAC.2026.3693988[DOI]</a>
   </div>
 </div>
 
