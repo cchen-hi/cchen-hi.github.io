@@ -13,7 +13,7 @@ author_profile: true
 }
 
 .pub-number {
-  flex: 0 0 2.5em;
+  flex: 0 0 2.8em;
   font-weight: bold;
 }
 
@@ -251,11 +251,20 @@ Conference Papers
   <div class="pub-details">
     <strong>Control of an under-sensed and under-actuated linear inverted pendulum</strong><br>
     <span class="my-name">Chao Chen</span>, Di Zhao and Li Qiu<br>
-    <em>Proc. 57th Annual Conference of SICE</em>, Nara, Japan, 2018, pp. 1301 – 1306
+    <em>Proc. 57th Annual Conference of SICE</em>, Nara, Japan, 2018, pp. 1301 – 1306.
     <a href="https://doi.org/10.23919/SICE.2018.8492573">[DOI]</a>
   </div>
 </div>  
 
 Book Chapters
 ======
-1. Di Zhao, **Chao Chen**, Sei Zhen Khong and Li Qiu, ''Robust control against uncertainty quartet: A polynomial approach,'' in *Uncertainty in Complex Networked Systems*, T. Basar, Ed. Cham, Switzerland: Birkhauser, 2018, pp. 149 – 178. [online](https://doi.org/10.1007/978-3-030-04630-9_4)
+<div class="pub">
+  <div class="pub-number">[B1]</div>
+  <div class="pub-details">
+    <strong>Robust control against uncertainty quartet: A polynomial approach</strong><br>
+    Di Zhao, <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Li Qiu<br>
+    <em>Uncertainty in Complex Networked Systems</em>, T. Basar, Ed. Cham, Switzerland: Birkhauser, 2018, pp. 149 – 178.
+    <a href="https://doi.org/10.1007/978-3-030-04630-9_4">[DOI]</a>
+  </div>
+</div>  
+
