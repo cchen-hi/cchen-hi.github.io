@@ -41,7 +41,7 @@ Journal Papers
 <div class="pub">
   <div class="pub-number">[J9]</div>
   <div class="pub-details">
-    <strong>Characterization and reduction of network asymmetry: A phase-pank perspective</strong><br>
+    <strong>Characterization and reduction of network asymmetry: A phase-rank perspective</strong><br>
     Di Zhao, <span class="my-name">Chao Chen*</span>, Kin Cheong Sou and Sei Zhen Khong<br>
     <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note)
   </div>
