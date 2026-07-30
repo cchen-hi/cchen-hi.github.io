@@ -34,11 +34,19 @@ author_profile: true
 Submitted Papers and Preprints
 ======
 1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
-2. Di Zhao, **Chao Chen**\*, Kin Cheong Sou and Sei Zhen Khong, ''Description and reduction of network asymmetry: A phase-rank approach,'' *IEEE Transactions on Automatic Control*, conditionally accepted, 2025.
-3. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.  
+2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.  
 
 Journal Papers
 ======
+<div class="pub">
+  <div class="pub-number">[J9]</div>
+  <div class="pub-details">
+    <strong>Characterization and reduction of network asymmetry: A phase-pank perspective</strong><br>
+    Di Zhao, <span class="my-name">Chao Chen*</span>, Kin Cheong Sou and Sei Zhen Khong<br>
+    <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note)
+  </div>
+</div>
+
 <div class="pub">
   <div class="pub-number">[J8]</div>
   <div class="pub-details">
