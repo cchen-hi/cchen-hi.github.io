@@ -82,7 +82,7 @@ Journal Papers
   <div class="pub-details">
     <strong>Feedback stability analysis via dissipativity with dynamic supply rates</strong><br>
     Sei Zhen Khong, <span class="my-name">Chao Chen*</span> and Alexander Lanzon<br>
-    <em>Automatica</em>, vol. 172, art. 112000, 2025. (Regular Paper)
+    <em>Automatica</em>, vol. 172, art. 112000, 2025. (IFAC Automatica Paper Prize Award 2026; Regular Paper)
     <a href="https://doi.org/10.1016/j.automatica.2024.112000">[DOI]</a> 
   </div>
 </div>
