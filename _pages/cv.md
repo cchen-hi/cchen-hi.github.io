@@ -22,12 +22,12 @@ Work experience
 ======
 * Lecturer in Control Systems &emsp; Feb 2025 - Present
   * Department of Electrical and Electronic Engineering (EEE)
-  * **The University of Manchester**, Manchester M13 9PL, United Kingdom
+  * **The University of Manchester**, Manchester, United Kingdom
   * [University Research Profile](https://research.manchester.ac.uk/en/persons/chao-chen/)
   
 * Postdoctoral Fellow &emsp; Jul 2023 - Feb 2025
   * Department of Electrical Engineering (ESAT-STADIUS)
-  * **Katholieke Universiteit Leuven (KU Leuven)**, Leuven 3000, Belgium
+  * **Katholieke Universiteit Leuven (KU Leuven)**, Leuven, Belgium
   * Supervisor: Prof. [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/)
 
 * Postdoctoral Fellow &emsp; Feb 2022 - Jul 2023
@@ -35,18 +35,22 @@ Work experience
   * **The Hong Kong University of Science and Technology**, Hong Kong, China
   * Supervisor: Prof. [Li Qiu](https://ece.hkust.edu.hk/eeqiu)
 
-On-going projects
+Projects
 ======
 * A Phase Theory for Nonlinear Systems &emsp;  Jul 2022 - Jun 2025
   * PI: Li Qiu, Co-I: Chao Chen 
   * Research Grants Council (RGC) of Hong Kong under the General Research Fund (GRF) No. 16203922
+
+Awards
+======
+* A recipient of the **IFAC Automatica Paper Prize Award 2026**  &emsp;  Aug 2026
  
 PhD Supervision
 ======
 * Co-Supervisor
   * Han Yao, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; Apr 2026 - Present
-  * Tianzhe Zhang, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM  &emsp; Apr 2025 - Present
-  * Qikai Sun, with Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/), EEE, UoM &emsp; Jan 2025 - Present
+  * Tianzhe Zhang, with Prof. Alexander Lanzon, EEE, UoM  &emsp; Apr 2025 - Present
+  * Qikai Sun, with Prof. Alexander Lanzon, EEE, UoM &emsp; Jan 2025 - Present
   
 Teaching experience
 ======
