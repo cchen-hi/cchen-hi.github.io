@@ -82,7 +82,7 @@ Journal Papers
   <div class="pub-details">
     <strong>Feedback stability analysis via dissipativity with dynamic supply rates</strong><br>
     Sei Zhen Khong, <span class="my-name">Chao Chen*</span> and Alexander Lanzon<br>
-    <em>Automatica</em>, vol. 172, art. 112000, 2025. (IFAC Automatica Paper Prize Award 2026; Regular Paper)
+    <em>Automatica</em>, vol. 172, art. 112000, 2025. (Regular Paper; <strong>IFAC Automatica Paper Prize Award 2026</strong>)
     <a href="https://doi.org/10.1016/j.automatica.2024.112000">[DOI]</a> 
   </div>
 </div>
@@ -131,7 +131,7 @@ Journal Papers
 Conference Papers
 ======
 <div class="pub">
-  <div class="pub-number">[C14]</div>
+  <div class="pub-number">[C15]</div>
   <div class="pub-details">
     <strong>Scaled relative graph separation for unbounded nonlinear systems</strong><br>
     <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
@@ -140,7 +140,7 @@ Conference Papers
 </div>
 
 <div class="pub">
-  <div class="pub-number">[C13]</div>
+  <div class="pub-number">[C14]</div>
   <div class="pub-details">
     <strong>A nonlinear negative imaginary theorem for feedback stability</strong><br>
     <span class="my-name">Chao Chen</span>, Qikai Sun, Sei Zhen Khong and Alexander Lanzon<br>
@@ -149,7 +149,7 @@ Conference Papers
 </div>
 
 <div class="pub">
-  <div class="pub-number">[C12]</div>
+  <div class="pub-number">[C13]</div>
   <div class="pub-details">
     <strong>When polar decomposition meets phase: A historical reconsideration</strong><br>
     Chen Chen, <span class="my-name">Chao Chen</span>, Di Zhao and Jianqi Chen<br>
@@ -158,7 +158,7 @@ Conference Papers
 </div>
 
 <div class="pub">
-  <div class="pub-number">[C11]</div>
+  <div class="pub-number">[C12]</div>
   <div class="pub-details">
     <strong>A time-domain condition for input-output feedback stability analysis of negative imaginary systems</strong><br>
     Qikai Sun, <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Alexander Lanzon<br>
@@ -167,7 +167,7 @@ Conference Papers
 </div>
 
 <div class="pub">
-  <div class="pub-number">[C10]</div>
+  <div class="pub-number">[C11]</div>
   <div class="pub-details">
     <strong>On the strictness of negative imaginariness for linear systems</strong><br>
     Tianzhe Zhang, <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Alexander Lanzon<br>
@@ -176,11 +176,20 @@ Conference Papers
 </div>
 
 <div class="pub">
+  <div class="pub-number">[C10]</div>
+  <div class="pub-details">
+    <strong>Optimal safety-critical control for LTI systems under ellipsoidal uncertainty</strong><br>
+    Haoxiang Yang, <span class="my-name">Chao Chen</span>, Jun Shang, Di Zhao and Jianqi Chen<br>
+    <em>Proc. 6th International Conference on Control Theory and Applications</em>, Qingdao, China, accepted, 2026. 
+  </div>
+</div>
+
+<div class="pub">
   <div class="pub-number">[C9]</div>
   <div class="pub-details">
     <strong>Safety verification of interconnected systems: An angular approach</strong><br>
     Weihao Zhang, <span class="my-name">Chao Chen</span>, Jianqi Chen and Di Zhao<br>
-    <em>Proc. 23rd IFAC World Congress</em>, accepted, 2026. 
+    <em>Proc. 23rd IFAC World Congress</em>, Busan, Republic of Korea, accepted, 2026. 
   </div>
 </div>
 
