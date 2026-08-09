@@ -23,7 +23,9 @@ The origins of the questions may be traced back to Prof. George Zames' pioneerin
 
 News
 ------
-July 2026: We are pleased to announce that our invited session "A Phase Approach to Complex Systems and Networks" has been accepted for IEEE CDC 2026, organized by myself, Prof. Di Zhao (Nanjing University) and Prof. Jianqi Chen (Nanjing University). 
+Aug 2026: I am deeply humbled and honored to receive the [IFAC Automatica Paper Prize Award 2026](https://www.sciencedirect.com/journal/automatica/about/news/congratulations-to-the-winners-of-the-automatica-ifac-triennial-journal-awards-2026) for our paper ''Feedback stability analysis via dissipativity with dynamic supply rates'' by Sei Zhen Khong, myself and Alexander Lanzon, awarded for the 2023–2026 IFAC triennium.
+
+Jul 2026: We are pleased to announce that our invited session "A Phase Approach to Complex Systems and Networks" has been accepted for IEEE CDC 2026, organized by myself, Prof. Di Zhao (Nanjing University) and Prof. Jianqi Chen (Nanjing University). 
 
 Jun 2025: I am currently accepting international PhD students with a strong interest in theoretical and novel research. Please refer to [FindAPhD](https://www.findaphd.com/phds/project/nonlinear-and-robust-control-a-phase-approach/?p185884) and [EEE](https://www.manchester.ac.uk/study/postgraduate-research/programmes/list/04620/phd-electrical-and-electronic-engineering), and email me with your CV if you are interested in joining my group. See also other [PhD Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/scholarships/) opportunities. For Chinese applicants, you may wish to consider applying for the [UoM-CSC Joint Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/china-scholarship-council-joint-scholarship/). 
 
