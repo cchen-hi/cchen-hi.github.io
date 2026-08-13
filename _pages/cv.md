@@ -43,7 +43,7 @@ Projects
 
 Awards
 ======
-* A recipient of the **IFAC Automatica Paper Prize Award 2026**  &emsp;  Aug 2026
+* A recipient of the **IFAC Automatica Paper Prize Award 2026** &emsp;  Aug 2026
  
 PhD Supervision
 ======
@@ -54,10 +54,15 @@ PhD Supervision
   
 Teaching experience
 ======
-* Lecturer, *Control Systems II* (UoM UG EEEN30231), &emsp; Since Fall 2026
-* Lecturer and Unit Lead, *Applied Optimal Control & Estimation* (UoM MSc EEEN40122/EEEN60122), &emsp; Since Spring 2026
-* Lecturer, *Optimal & Robust Control* (UoM MSc EEEN40262/EEEN60262), &emsp; Spring 2025
-* Teaching Assistant, *System Modeling, Analysis and Control* (HKUST UG ELEC3200), &emsp; Spring/Fall 2017, Spring 2018
-* Teaching Assistant, *Control System Design* (HKUST UG ELEC4010G), &emsp;  Spring 2017
+* Lecturer, *Control Systems II* (UoM UG EEEN30231) &emsp; Since Fall 2026
+* Lecturer and Unit Lead, *Applied Optimal Control & Estimation* (UoM MSc EEEN40122/EEEN60122) &emsp; Since Spring 2026
+* Lecturer, *Optimal & Robust Control* (UoM MSc EEEN40262/EEEN60262) &emsp; Spring 2025
+* Teaching Assistant, *System Modeling, Analysis and Control* (HKUST UG ELEC3200) &emsp; Spring/Fall 2017, Spring 2018
+* Teaching Assistant, *Control System Design* (HKUST UG ELEC4010G) &emsp;  Spring 2017
+
+Academic Service
+======
+* Associate Editor, *EUCA Conference Editorial Board (EUCA-CEB)* &emsp; Nov 2026 - Present 
+ 
 
   
