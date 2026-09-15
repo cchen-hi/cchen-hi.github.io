@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**One fully funded PhD position for international students available (Latest start date: Spring 2027).** 
-
-**Please email me with your CV if you are interested.**
+**One fully funded PhD position for international students available (Latest start date: Spring 2027). Please email me with your CV if you are interested.**
 
 About Me
 ------
