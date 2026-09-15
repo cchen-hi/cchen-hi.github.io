@@ -34,7 +34,7 @@ author_profile: true
 Submitted Papers and Preprints
 ======
 1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
-2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.  
+2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.
 
 Journal Papers
 ======
@@ -136,7 +136,7 @@ Conference Papers
   <div class="pub-details">
     <strong>Scaled relative graph separation for unbounded nonlinear systems</strong><br>
     <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
-    <em>Proc. 65th IEEE Conference on Decision and Control</em>, accepted, 2026. 
+    <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
   </div>
 </div>
 
@@ -145,7 +145,7 @@ Conference Papers
   <div class="pub-details">
     <strong>A nonlinear negative imaginary theorem for feedback stability</strong><br>
     <span class="my-name">Chao Chen</span>, Qikai Sun, Sei Zhen Khong and Alexander Lanzon<br>
-    <em>Proc. 65th IEEE Conference on Decision and Control</em>, accepted, 2026. 
+    <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
   </div>
 </div>
 
@@ -154,7 +154,7 @@ Conference Papers
   <div class="pub-details">
     <strong>When polar decomposition meets phase: A historical reconsideration</strong><br>
     Chen Chen, <span class="my-name">Chao Chen</span>, Di Zhao and Jianqi Chen<br>
-    <em>Proc. 65th IEEE Conference on Decision and Control</em>, accepted, 2026. 
+    <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
   </div>
 </div>
 
@@ -163,7 +163,7 @@ Conference Papers
   <div class="pub-details">
     <strong>A time-domain condition for input-output feedback stability analysis of negative imaginary systems</strong><br>
     Qikai Sun, <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Alexander Lanzon<br>
-    <em>Proc. 65th IEEE Conference on Decision and Control</em>, accepted, 2026. 
+    <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
   </div>
 </div>
 
@@ -172,7 +172,7 @@ Conference Papers
   <div class="pub-details">
     <strong>On the strictness of negative imaginariness for linear systems</strong><br>
     Tianzhe Zhang, <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Alexander Lanzon<br>
-    <em>Proc. 65th IEEE Conference on Decision and Control</em>, accepted, 2026. 
+    <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
   </div>
 </div>
 
@@ -190,7 +190,7 @@ Conference Papers
   <div class="pub-details">
     <strong>Safety verification of interconnected systems: An angular approach</strong><br>
     Weihao Zhang, <span class="my-name">Chao Chen</span>, Jianqi Chen and Di Zhao<br>
-    <em>Proc. 23rd IFAC World Congress</em>, Busan, Republic of Korea, accepted, 2026. 
+    <em>Proc. 23rd IFAC World Congress</em>, Busan, Republic of Korea, in press, 2026. 
   </div>
 </div>
 
