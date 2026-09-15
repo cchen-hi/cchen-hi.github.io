@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+**One fully funded PhD position for international students available (Latest start date: Spring 2027).** 
+
+**Please email me with your CV if you are interested.**
+
 About Me
 ------
 I am a Lecturer ([Assistant Professor](https://research.manchester.ac.uk/en/persons/chao-chen/)) in Control Systems with the [Department of Electrical and Electronic Engineering](https://www.eee.manchester.ac.uk), The University of Manchester, United Kingdom. My research interests include nonlinear systems, robust control, system phase theory and neuromorphic control.
