@@ -42,7 +42,7 @@ Journal Papers
   <div class="pub-number">[J10]</div>
   <div class="pub-details">
     <strong>Marginally strictly negative imaginary systems</strong><br>
-    Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Sei Zhen Khong and Alexander Lanzon<br>
+    Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Alexander Lanzon and Sei Zhen Khong<br>
     <em>International Journal of Robust and Nonlinear Control</em>, accepted, 2026.   
   </div>
 </div>
