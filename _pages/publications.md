@@ -39,6 +39,15 @@ Submitted Papers and Preprints
 Journal Papers
 ======
 <div class="pub">
+  <div class="pub-number">[J10]</div>
+  <div class="pub-details">
+    <strong>Marginally strictly negative imaginary systems</strong><br>
+    Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Sei Zhen Khong and Alexander Lanzon<br>
+    <em>International Journal of Robust and Nonlinear Control</em>, accepted, 2026.   
+  </div>
+</div>
+
+<div class="pub">
   <div class="pub-number">[J9]</div>
   <div class="pub-details">
     <strong>Characterization and reduction of network asymmetry: A phase-rank perspective</strong><br>
