@@ -44,6 +44,7 @@ Journal Papers
     <strong>Marginally strictly negative imaginary systems</strong><br>
     Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Alexander Lanzon and Sei Zhen Khong<br>
     <em>International Journal of Robust and Nonlinear Control</em>, accepted, 2026.   
+    <a href="https://doi.org/10.1002/rnc.70775">[DOI]</a>  
   </div>
 </div>
 
@@ -62,7 +63,7 @@ Journal Papers
   <div class="pub-details">
     <strong>Soft and hard scaled relative graphs for nonlinear feedback stability</strong><br>
     <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
-    <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note)
+    <em>IEEE Transactions on Automatic Control</em>, vol. 71, no. 10, pp. 6974 - 6981, 2026. (Technical Note)
     <a href="https://doi.org/10.1109/TAC.2026.3693988">[DOI]</a> 
   </div>
 </div>
