@@ -31,10 +31,11 @@ author_profile: true
 }
 </style>
 
-Submitted Papers and Preprints
+Preprints
 ======
-1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021. [arXiv:2012.00692](https://arxiv.org/abs/2012.00692)
+1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021.  <a href="https://arxiv.org/abs/2012.00692">[arXiv]</a>     
 2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.
+3. Haoxiang Yang, **Chao Chen**, Jun Shang and Di Zhao, ''Optimal safety-critical control for linear time-varying systems,'' submitted to *IEEE Transactions on Automatic Control*, 2026.
 
 Journal Papers
 ======
