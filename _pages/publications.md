@@ -33,7 +33,7 @@ author_profile: true
 
 Preprints
 ======
-1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' submitted to *IEEE Transactions on Automatic Control*, 2021.  <a href="https://arxiv.org/abs/2012.00692">[arXiv]</a>     
+1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' 2021.  <a href="https://arxiv.org/abs/2012.00692">[arXiv]</a>     
 2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.
 3. Haoxiang Yang, **Chao Chen**, Jun Shang and Di Zhao, ''Optimal safety-critical control for linear time-varying systems,'' submitted to *IEEE Transactions on Automatic Control*, 2026.
 
@@ -44,7 +44,7 @@ Journal Papers
   <div class="pub-details">
     <strong>Marginally strictly negative imaginary systems</strong><br>
     Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Alexander Lanzon and Sei Zhen Khong<br>
-    <em>International Journal of Robust and Nonlinear Control</em>, accepted, 2026.   
+    <em>International Journal of Robust and Nonlinear Control</em>, 2026.   
     <a href="https://doi.org/10.1002/rnc.70775">[DOI]</a>  
   </div>
 </div>
@@ -192,7 +192,7 @@ Conference Papers
   <div class="pub-details">
     <strong>Optimal safety-critical control for LTI systems under ellipsoidal uncertainty</strong><br>
     Haoxiang Yang, <span class="my-name">Chao Chen</span>, Jun Shang, Di Zhao and Jianqi Chen<br>
-    <em>Proc. 6th International Conference on Control Theory and Applications</em>, Qingdao, China, in press, 2026. (Best Student Paper Award)
+    <em>Proc. 6th International Conference on Control Theory and Applications</em>, Qingdao, China, 2026. (Best Student Paper Award)
   </div>
 </div>
 
@@ -201,7 +201,7 @@ Conference Papers
   <div class="pub-details">
     <strong>Safety verification of interconnected systems: An angular approach</strong><br>
     Weihao Zhang, <span class="my-name">Chao Chen</span>, Jianqi Chen and Di Zhao<br>
-    <em>Proc. 23rd IFAC World Congress</em>, Busan, Republic of Korea, in press, 2026. 
+    <em>Proc. 23rd IFAC World Congress</em>, Busan, Republic of Korea, 2026. 
   </div>
 </div>
 
