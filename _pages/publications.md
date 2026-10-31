@@ -192,7 +192,7 @@ Conference Papers
   <div class="pub-details">
     <strong>Optimal safety-critical control for LTI systems under ellipsoidal uncertainty</strong><br>
     Haoxiang Yang, <span class="my-name">Chao Chen</span>, Jun Shang, Di Zhao and Jianqi Chen<br>
-    <em>Proc. IEEE 6th International Conference on Control Theory and Applications</em>, Qingdao, China, 2026. (<strong>Best Student Paper Award<strong>)
+    <em>Proc. IEEE 6th International Conference on Control Theory and Applications</em>, Qingdao, China, 2026. (<strong>Best Student Paper Award</strong>)
   </div>
 </div>
 
