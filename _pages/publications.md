@@ -33,9 +33,10 @@ author_profile: true
 
 Preprints
 ======
-1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' 2021.  <a href="https://arxiv.org/abs/2012.00692">[arXiv]</a>     
+1. **Chao Chen**, Di Zhao, Wei Chen, Sei Zhen Khong and Li Qiu, ''Phase of nonlinear systems,'' arXiv, 2021.  <a href="https://arxiv.org/abs/2012.00692">[arXiv]</a>     
 2. Weihao Zhang, **Chao Chen**, Jianqi Chen and Di Zhao, ''Angular safety analysis of interconnected systems,'' submitted to *Automatica*, 2025.
 3. Haoxiang Yang, **Chao Chen**, Jun Shang and Di Zhao, ''Optimal safety-critical control for linear time-varying systems,'' submitted to *IEEE Transactions on Automatic Control*, 2026.
+4. Sebastiaan van den Eijnden, Chao Chen, and Sei Zhen Khong, ''On the IQC and SRG frameworks: Equivalences and converse results,'' arXiv, 2026. <a href="https://arxiv.org/pdf/2611.04593">[arXiv]</a>  
 
 Journal Papers
 ======
