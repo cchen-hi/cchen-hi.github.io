@@ -12,9 +12,9 @@ redirect_from:
 
 **Two available PhD project opportunities** (Competition funded by School of Engineering, Deadline: **January 15, 2027**): 
 
-[Advancing dissipativity theory for nonlinear systems and neural networks](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-advancing-dissipativity-theory-for-nonlinear-systems-and-neural-networks/?p202771) (Dr Chao Chen and Prof. Alexander Lanzon)
+[Advancing dissipativity theory for nonlinear systems and neural networks](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-advancing-dissipativity-theory-for-nonlinear-systems-and-neural-networks/?p202771) (Chao Chen and Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/))
 
-[Input-restricted robust feedback stability analysis of nonlinear dynamical systems](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-input-restricted-robust-feedback-stability-analysis-of-nonlinear-dynamical-systems/?p202766) (Prof. Alexander Lanzon and Dr Chao Chen)
+[Input-restricted robust feedback stability analysis of nonlinear dynamical systems](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-input-restricted-robust-feedback-stability-analysis-of-nonlinear-dynamical-systems/?p202766)  (Prof. [Alexander Lanzon](https://personalpages.manchester.ac.uk/staff/Alexander.Lanzon/) and Chao Chen)
 
 Please email me or Prof. Alexander Lanzon with your CV if you are interested.
 
