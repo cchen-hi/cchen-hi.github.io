@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**One fully funded PhD position for international students available (Latest start date: Spring 2027). Please email me with your CV if you are interested.**
+**One fully funded PhD position for international students available (Latest start date: 07/2027). Please email me with your CV if you are interested.**
+
+**Two available PhD project opportunities** (Competition funded by School of Engineering, Deadline: **January 15, 2027**): 
+
+[Advancing dissipativity theory for nonlinear systems and neural networks](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-advancing-dissipativity-theory-for-nonlinear-systems-and-neural-networks/?p202771) (Dr Chao Chen and Prof. Alexander Lanzon)
+
+[Input-restricted robust feedback stability analysis of nonlinear dynamical systems](https://www.findaphd.com/phds/project/school-of-engineering-phd-scholarships-input-restricted-robust-feedback-stability-analysis-of-nonlinear-dynamical-systems/?p202766) (Prof. Alexander Lanzon and Dr Chao Chen)
+
+Please email me or Prof. Alexander Lanzon with your CV if you are interested.
 
 About Me
 ------
