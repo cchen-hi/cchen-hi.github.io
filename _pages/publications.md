@@ -47,6 +47,7 @@ Journal Papers
     Tianzhe Zhang, <span class="my-name">Chao Chen*</span>, Alexander Lanzon and Sei Zhen Khong<br>
     <em>International Journal of Robust and Nonlinear Control</em>, 2026.   
     <a href="https://doi.org/10.1002/rnc.70775">[DOI]</a>  
+    <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.70775">[PDF]</a>  
   </div>
 </div>
 
@@ -56,7 +57,8 @@ Journal Papers
     <strong>Characterization and reduction of network asymmetry: A phase-rank perspective</strong><br>
     Di Zhao, <span class="my-name">Chao Chen*</span>, Kin Cheong Sou and Sei Zhen Khong<br>
     <em>IEEE Transactions on Automatic Control</em>, 2026. (Technical Note) 
-      <a href="https://doi.org/10.1109/TAC.2026.3724115">[DOI]</a>  
+    <a href="https://doi.org/10.1109/TAC.2026.3724115">[DOI]</a>  
+    <a href="https://pure.manchester.ac.uk/ws/portalfiles/portal/1999929236/ZhaoChenSouKhong_IEEE-TAC_26.pdf">[PDF]</a>  
   </div>
 </div>
 
@@ -67,6 +69,7 @@ Journal Papers
     <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
     <em>IEEE Transactions on Automatic Control</em>, vol. 71, no. 10, pp. 6974 - 6981, 2026. (Technical Note)
     <a href="https://doi.org/10.1109/TAC.2026.3693988">[DOI]</a> 
+    <a href="https://research.manchester.ac.uk/files/1914654560/ChenKhongSepulchre_IEEE-TAC_26.pdf">[PDF]</a>  
   </div>
 </div>
 
@@ -77,6 +80,7 @@ Journal Papers
     <span class="my-name">Chao Chen</span>, Wei Chen, Di Zhao, Jianqi Chen and Li Qiu<br>
     <em>IEEE Transactions on Automatic Control</em>, vol. 71, no. 3, pp. 1676 - 1691, 2026. (Full Paper)
     <a href="https://doi.org/10.1109/TAC.2025.3617287">[DOI]</a> 
+    <a href="https://research.manchester.ac.uk/files/1632574801/ChenChenZhaoChenQiu_IEEE-TAC_25.pdf">[PDF]</a> 
   </div>
 </div>
 
@@ -87,6 +91,7 @@ Journal Papers
     <span class="my-name">Chao Chen</span>, Di Zhao and Sei Zhen Khong<br>
     <em>Automatica</em>, vol. 181, art. 112515, 2025. (Regular Paper)
     <a href="https://doi.org/10.1016/j.automatica.2025.112515">[DOI]</a> 
+    <a href="https://research.manchester.ac.uk/files/1563225263/ChenZhaoKhong_2025_arXiv.pdf">[PDF]</a> 
   </div>
 </div>
 
@@ -97,6 +102,7 @@ Journal Papers
     Sei Zhen Khong, <span class="my-name">Chao Chen*</span> and Alexander Lanzon<br>
     <em>Automatica</em>, vol. 172, art. 112000, 2025. (Regular Paper; <strong>IFAC Automatica Paper Prize Award 2026</strong>)
     <a href="https://doi.org/10.1016/j.automatica.2024.112000">[DOI]</a> 
+    <a href="https://research.manchester.ac.uk/files/348468478/AUTOMATICA-_Khong-Chen-Lanzon.pdf">[PDF]</a> 
   </div>
 </div>
 
@@ -149,6 +155,7 @@ Conference Papers
     <strong>Scaled relative graph separation for unbounded nonlinear systems</strong><br>
     <span class="my-name">Chao Chen</span>, Sei Zhen Khong and Rodolphe Sepulchre<br>
     <em>Proc. 65th IEEE Conference on Decision and Control</em>, Honolulu, HI, accepted, 2026. 
+        <a href="https://doi.org/10.48550/arXiv.2611.29657">[arXiv]</a>  
   </div>
 </div>
 
@@ -212,7 +219,7 @@ Conference Papers
     <strong>Graphical dominance analysis for linear Systems: A frequency-domain approach</strong><br>
     <span class="my-name">Chao Chen</span>, Thomas Chaffey and Rodolphe Sepulchre<br>
     <em>Proc. 64th IEEE Conference on Decision and Control</em>, Rio de Janeiro, Brazil, 2025, pp. 2720 – 2725.
-    <a href="https://doi.org/10.1109/CDC57313.2025.11312980">[DOI]</a>
+    <a href="https://doi.org/10.1109/CDC57313.2025.11312980">[DOI]</a> 
   </div>
 </div> 
 
